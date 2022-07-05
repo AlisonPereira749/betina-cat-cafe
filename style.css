@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #FFFCF2;
+}
+
+main {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+img {
+    width: 100%;
+}
