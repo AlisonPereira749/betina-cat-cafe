@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Round';
-    src: url('/fonte/Cronus\ Round.otf') format('opentype');
+    src: url('fonte/CronusRound.otf') format('opentype');
 }
 
 html, body {
@@ -34,7 +34,6 @@ footer {
     font-family: sans-serif, arial;
     width: 100%;
     text-align: center;
-    margin-top: 50px;
 }
 
 .footer__content{
