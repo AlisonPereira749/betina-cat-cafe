@@ -83,3 +83,10 @@ a i {
     font-size: 0.8em;
     color: hsla(46, 100%, 97%, 0.600);
 }
+
+@media screen and (max-width: 480px) {
+    h1.title {
+        font-size: 3em;
+        top: 35px;
+    }
+}
