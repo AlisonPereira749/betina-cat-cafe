@@ -1,3 +1,8 @@
+@font-face {
+    font-family: 'Round';
+    src: url('/fonte/Cronus\ Round.otf') format('opentype');
+}
+
 html, body {
     margin: 0px;
     padding: 0px;
@@ -7,6 +12,17 @@ html, body {
 main {
     max-width: 900px;
     margin: 0 auto;
+    text-align: center;
+}
+
+h1.title {
+    font-family: 'Round';
+    font-size: 5em;
+    text-transform: uppercase;
+    font-weight: 300;
+    margin: 0;
+    position: relative;
+    top: 55px;
 }
 
 img {
